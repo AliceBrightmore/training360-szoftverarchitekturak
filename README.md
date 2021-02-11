@@ -52,7 +52,7 @@
 
 ![19](demo-19.png)
 
-# Webes alkalmazás RIA felülettel - Javascript:
+# Webes alkalmazás RIA felülettel - JavaScript:
 
 ![20](demo-20.png)
 
